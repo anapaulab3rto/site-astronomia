@@ -2,5 +2,5 @@
 
  Meu primeiro site sobre astronomia
  <br>
- Site feito com feito para o aprendizado de HTML 
+ Site feito para o aprendizado de HTML 
  
